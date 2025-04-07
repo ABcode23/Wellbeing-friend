@@ -1,0 +1,20 @@
+# Ignore the virtual environment
+project1_env/
+
+# Ignore secret keys and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Ignore system and browser-related files
+AppData/
+*.log
+*.bak
+*.swp
+*.sqlite
