@@ -1,0 +1,7 @@
+streamlit
+google.generativeai
+textblob
+nltk
+os
+speech_recognition
+time
